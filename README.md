@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Petkov</h1>
-<h3 align="center">A passionate Javascript developer from Bulgaria</h3>
+<h3 align="center">A passionate Javascript / React developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xelaz98&label=Profile%20views&color=0e75b6&style=flat" alt="xelaz98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xelaz98" alt="xelaz98" /></a> </p>
 
-- 🔭 I’m currently working on **ExpressJS project**
+- 🔭 I’m currently working on **React project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
